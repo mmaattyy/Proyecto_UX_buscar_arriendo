@@ -114,6 +114,7 @@ They provide a clear, low-fidelity layout of the app’s structure—from proper
 <img src="https://github.com/user-attachments/assets/5524393a-cb1e-40d5-b126-85240c1f3bf3" width="30%">  
 <img src="https://github.com/user-attachments/assets/4b3c2fd8-84c9-4691-86f8-16cd2cfd1351" width="30%">
 
+
 ## Mockups
 
 Mockups bring our wireframes to life, transforming structural layouts into high-fidelity visual designs. This section showcases the evolution from our initial concept (Version 1) to a polished, professional interface (Version 2), incorporating user feedback and design best practices.
@@ -121,6 +122,7 @@ Mockups bring our wireframes to life, transforming structural layouts into high-
 # version 1
 
 Our first mockup iteration focused on core functionality, testing basic UI components and user flows. 
+
 
 <img src="https://github.com/user-attachments/assets/fd4104c4-4cee-4ace-9372-4087bd9961e1" width="30%">
 <img src="https://github.com/user-attachments/assets/326a4fdd-244c-45ee-8e4a-b68b7724ad53" width="30%">
@@ -163,6 +165,7 @@ Trust-Building Elements: Verified landlord badges, student testimonials, and saf
 Search Filters: Redesigned with intuitive toggles (e.g., "Pet-Friendly").
 
 Property Cards: High-quality images, distance-to-campus metrics, and price alerts.
+
 
 <img src="https://github.com/user-attachments/assets/75de59f1-7f1c-4e85-bc7b-4a494ee34cb4" width="30%">  
 <img src="https://github.com/user-attachments/assets/23a7088a-95c9-4c4e-8609-8e38581962ff" width="30%">  
