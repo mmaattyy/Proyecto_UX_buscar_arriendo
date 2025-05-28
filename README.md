@@ -15,8 +15,13 @@ User experience study for a mobile application facilitating student housing
    - [version 1](#version-1)  
    - [version 2](#version-2)
 
+   
+
+
 ## Introduction
 Finding affordable, safe housing near universities is a major challenge for students, especially those relocating for studies. Existing platforms often lack tailored filters, trust verification, or efficient communication tools. 
+
+
 
 ## Team
 
@@ -65,7 +70,7 @@ From discovery ("How do I find housing?") to retention ("Can I renew?"), we mapp
 
 ![image](https://github.com/user-attachments/assets/ae6a51fb-6d97-4e3e-86ba-fa256880c519)
 
-##Navigation
+##  Navigation
 
 Initial Approach
 Focused on core flows: Search → Property Details → Contact.
