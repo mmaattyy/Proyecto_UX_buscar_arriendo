@@ -70,7 +70,7 @@ From discovery ("How do I find housing?") to retention ("Can I renew?"), we mapp
 
 ![image](https://github.com/user-attachments/assets/ae6a51fb-6d97-4e3e-86ba-fa256880c519)
 
-##  Navigation - Mind Map
+##  Navigation - SiteMap
 
 Initial Approach
 Focused on core flows: Search → Property Details → Contact.
