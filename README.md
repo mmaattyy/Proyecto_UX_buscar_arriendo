@@ -201,3 +201,30 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 <img src="https://github.com/user-attachments/assets/ea4b6b7d-6a48-402f-91e0-93a68a563dff" width="30%">
 
 # final version
+
+![proyecto UX_Final_page-0018](https://github.com/user-attachments/assets/84711514-b587-4c17-bcdd-47079a0024eb)
+![proyecto UX_Final_page-0017](https://github.com/user-attachments/assets/36935d12-8a1e-41fc-af1e-9f69024f492e)
+![proyecto UX_Final_page-0016](https://github.com/user-attachments/assets/d15e69c5-f4e3-4cf9-a448-7faf654e0134)
+![proyecto UX_Final_page-0015](https://github.com/user-attachments/assets/0bd37283-acfa-4a70-8d5d-c4865ef97b7d)
+![proyecto UX_Final_page-0014](https://github.com/user-attachments/assets/de6db6bd-0164-4906-acc8-244305ce7ec5)
+![proyecto UX_Final_page-0013](https://github.com/user-attachments/assets/102fdf15-ad09-49f4-a0b3-e6f9604e871e)
+![proyecto UX_Final_page-0012](https://github.com/user-attachments/assets/9c017fbd-18c0-4726-90a9-0d6d0f937903)
+![proyecto UX_Final_page-0011](https://github.com/user-attachments/assets/b3625c8c-43ae-44a2-9cb4-36459fd3fb8c)
+![proyecto UX_Final_page-0010](https://github.com/user-attachments/assets/d423bc37-f1f4-47e6-a08f-09bbb45fe56b)
+![proyecto UX_Final_page-0009](https://github.com/user-attachments/assets/af2cf854-97c0-4e54-b982-8f4065c688c2)
+![proyecto UX_Final_page-0008](https://github.com/user-attachments/assets/1a4f6597-8523-4b82-8b1a-7c22d8b08b2c)
+![proyecto UX_Final_page-0007](https://github.com/user-attachments/assets/9f2271ce-59e2-4c8f-b09e-82c3a9179acc)
+![proyecto UX_Final_page-0006](https://github.com/user-attachments/assets/64f1e31a-1740-4c3d-b311-9847d5e89f59)
+![proyecto UX_Final_page-0005](https://github.com/user-attachments/assets/356174ad-2077-4c94-97d0-bf27b67802ea)
+![proyecto UX_Final_page-0004](https://github.com/user-attachments/assets/ed14aeed-87a0-42a4-b1e1-e4b27b1a1a13)
+![proyecto UX_Final_page-0003](https://github.com/user-attachments/assets/2125d46b-0681-4ced-bf96-75955dfa3adf)
+![proyecto UX_Final_page-0002](https://github.com/user-attachments/assets/3c4632ce-2552-4ab0-bd44-a1d368821b86)
+![proyecto UX_Final_page-0001](https://github.com/user-attachments/assets/60770e06-4b9b-42a2-866b-b9ed0d2899c7)
+![proyecto UX_Final_page-0025](https://github.com/user-attachments/assets/0d6f5384-3c79-4521-810e-7072b18ae077)
+![proyecto UX_Final_page-0024](https://github.com/user-attachments/assets/f39affaa-28de-4f68-accb-b279acfe0d57)
+![proyecto UX_Final_page-0023](https://github.com/user-attachments/assets/246c5467-1188-4e1f-ab67-c21b3028d9cf)
+![proyecto UX_Final_page-0022](https://github.com/user-attachments/assets/50acf225-218d-4417-a1c8-2b3f87552605)
+![proyecto UX_Final_page-0021](https://github.com/user-attachments/assets/dc7fd8b1-c4c7-4cf2-b1ae-6483f8af028a)
+![proyecto UX_Final_page-0020](https://github.com/user-attachments/assets/1ba2186b-13e0-4bc3-86e8-063274ee09c4)
+![proyecto UX_Final_page-0019](https://github.com/user-attachments/assets/f4f297c9-a2af-473c-ad40-5b8029b252c2)
+
