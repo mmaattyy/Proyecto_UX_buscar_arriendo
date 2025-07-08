@@ -208,7 +208,7 @@ Below is a comparison of the most relevant changes made after receiving feedback
 <p><strong>Login – Before and After</strong></p>
 <div>
   <img src="https://github.com/user-attachments/assets/de6b9972-f23d-4318-a679-43c74cd8b8f7" width="30%">
-  <img src="https://github.com/user-attachments/assets/f84db73e-baa9-4b6b-878a-2a379bb575c5" width="30%">
+  <img src="https://github.com/user-attachments/assets/f84db73e-baa9-4b6b-878a-2a379bb575c5" width="60%">
 </div>
 
 <p><strong>Main Screen – Before and After</strong></p>
