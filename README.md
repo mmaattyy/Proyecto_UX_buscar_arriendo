@@ -204,6 +204,7 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 
 After receiving feedback from our first presentation and the heuristic evaluation conducted by our peers, we applied significant improvements to the design and functionality. This is the **final version** of our application, incorporating those corrections to enhance usability, clarity, and alignment with user needs.
 
+
 <!-- 1 -->
 <img src="https://github.com/user-attachments/assets/821d0bb7-eab3-49dd-acd7-9298d3c3bffa" width="30%">
 <!-- 2 -->
