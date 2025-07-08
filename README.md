@@ -14,7 +14,7 @@ User experience study for a mobile application facilitating student housing
 9. [Mockups](#mockups)  
    - [Version 1](#version-1)  
    - [Version 2](#version-2)
-   - [Before & After](#before-y-after)  
+   - [Before & After](#before-&-after)  
    - [Final Version](#final-version)  
 
    
