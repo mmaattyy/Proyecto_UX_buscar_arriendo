@@ -14,7 +14,7 @@ User experience study for a mobile application facilitating student housing
 9. [Mockups](#mockups)  
    - [Version 1](#version-1)  
    - [Version 2](#version-2)
-   - [Before & After](#before-&-after)  
+   - [Before and After](#before-and-after)  
    - [Final Version](#final-version)  
 
    
@@ -201,7 +201,7 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 <img src="https://github.com/user-attachments/assets/476f0aa2-531a-4d77-99b1-a7aee0acd475" width="30%">  
 <img src="https://github.com/user-attachments/assets/ea4b6b7d-6a48-402f-91e0-93a68a563dff" width="30%">
 
-# Before & After
+# Before and After
 
 Below is a comparison of the most relevant changes made after receiving feedback.
 
