@@ -12,9 +12,10 @@ User experience study for a mobile application facilitating student housing
 7. [Navigation](#navigation)   
 8. [Wireframes](#wireframes)  
 9. [Mockups](#mockups)  
-   - [version 1](#version-1)  
-   - [version 2](#version-2)
-   - [Final version](#final-version)  
+   - [Version 1](#version-1)  
+   - [Version 2](#version-2)
+   - [Before & After](#before-y-after)  
+   - [Final Version](#final-version)  
 
    
 
@@ -125,7 +126,7 @@ They provide a clear, low-fidelity layout of the app’s structure—from proper
 
 Mockups bring our wireframes to life, transforming structural layouts into high-fidelity visual designs. This section showcases the evolution from our initial concept (Version 1) to a polished, professional interface (Version 2), incorporating user feedback and design best practices.
 
-# version 1
+# Version 1
 
 Our first mockup iteration focused on core functionality, testing basic UI components and user flows. 
 
@@ -158,7 +159,7 @@ Our first mockup iteration focused on core functionality, testing basic UI compo
 <img src="https://github.com/user-attachments/assets/5f6ee44b-de8b-4a30-a224-5f552c610a4f" width="30%">
 
 
-# version 2
+# Version 2
 
 After feedback, Version 2 elevated the design with:
 
@@ -200,7 +201,7 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 <img src="https://github.com/user-attachments/assets/476f0aa2-531a-4d77-99b1-a7aee0acd475" width="30%">  
 <img src="https://github.com/user-attachments/assets/ea4b6b7d-6a48-402f-91e0-93a68a563dff" width="30%">
 
-# final version
+# Final Version
 
 After receiving feedback from our first presentation and the heuristic evaluation conducted by our peers, we applied significant improvements to the design and functionality. This is the **final version** of our application, incorporating those corrections to enhance usability, clarity, and alignment with user needs.
 
