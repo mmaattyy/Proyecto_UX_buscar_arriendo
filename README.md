@@ -205,12 +205,23 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 
 Below is a comparison of the most relevant changes made after receiving feedback.
 
-![antes-login](https://github.com/user-attachments/assets/de6b9972-f23d-4318-a679-43c74cd8b8f7)
-![despues-login](https://github.com/user-attachments/assets/f84db73e-baa9-4b6b-878a-2a379bb575c5)
-![antes-principal](https://github.com/user-attachments/assets/99571def-b308-42ac-8cce-0df1ab05bd1b)
-![despues-principal](https://github.com/user-attachments/assets/30af3209-e24e-4977-9c99-45065fdeae4c)
-![despues-guardados](https://github.com/user-attachments/assets/218e4446-0a95-465d-b96a-249ee2350efd)
-![antes-guardados](https://github.com/user-attachments/assets/41a1a28d-049a-4d1c-b5b7-4326a5370011)
+<p><strong>Login – Before and After</strong></p>
+<div>
+  <img src="https://github.com/user-attachments/assets/de6b9972-f23d-4318-a679-43c74cd8b8f7" width="30%">
+  <img src="https://github.com/user-attachments/assets/f84db73e-baa9-4b6b-878a-2a379bb575c5" width="30%">
+</div>
+
+<p><strong>Main Screen – Before and After</strong></p>
+<div>
+  <img src="https://github.com/user-attachments/assets/99571def-b308-42ac-8cce-0df1ab05bd1b" width="30%">
+  <img src="https://github.com/user-attachments/assets/30af3209-e24e-4977-9c99-45065fdeae4c" width="30%">
+</div>
+
+<p><strong>Saved Listings – Before and After</strong></p>
+<div>
+  <img src="https://github.com/user-attachments/assets/41a1a28d-049a-4d1c-b5b7-4326a5370011" width="30%">
+  <img src="https://github.com/user-attachments/assets/218e4446-0a95-465d-b96a-249ee2350efd" width="30%">
+</div>
 
 
 # Final Version
