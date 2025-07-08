@@ -202,29 +202,56 @@ Property Cards: High-quality images, distance-to-campus metrics, and price alert
 
 # final version
 
-![proyecto UX_Final_page-0018](https://github.com/user-attachments/assets/84711514-b587-4c17-bcdd-47079a0024eb)
-![proyecto UX_Final_page-0017](https://github.com/user-attachments/assets/36935d12-8a1e-41fc-af1e-9f69024f492e)
-![proyecto UX_Final_page-0016](https://github.com/user-attachments/assets/d15e69c5-f4e3-4cf9-a448-7faf654e0134)
-![proyecto UX_Final_page-0015](https://github.com/user-attachments/assets/0bd37283-acfa-4a70-8d5d-c4865ef97b7d)
-![proyecto UX_Final_page-0014](https://github.com/user-attachments/assets/de6db6bd-0164-4906-acc8-244305ce7ec5)
-![proyecto UX_Final_page-0013](https://github.com/user-attachments/assets/102fdf15-ad09-49f4-a0b3-e6f9604e871e)
-![proyecto UX_Final_page-0012](https://github.com/user-attachments/assets/9c017fbd-18c0-4726-90a9-0d6d0f937903)
-![proyecto UX_Final_page-0011](https://github.com/user-attachments/assets/b3625c8c-43ae-44a2-9cb4-36459fd3fb8c)
-![proyecto UX_Final_page-0010](https://github.com/user-attachments/assets/d423bc37-f1f4-47e6-a08f-09bbb45fe56b)
-![proyecto UX_Final_page-0009](https://github.com/user-attachments/assets/af2cf854-97c0-4e54-b982-8f4065c688c2)
-![proyecto UX_Final_page-0008](https://github.com/user-attachments/assets/1a4f6597-8523-4b82-8b1a-7c22d8b08b2c)
-![proyecto UX_Final_page-0007](https://github.com/user-attachments/assets/9f2271ce-59e2-4c8f-b09e-82c3a9179acc)
-![proyecto UX_Final_page-0006](https://github.com/user-attachments/assets/64f1e31a-1740-4c3d-b311-9847d5e89f59)
-![proyecto UX_Final_page-0005](https://github.com/user-attachments/assets/356174ad-2077-4c94-97d0-bf27b67802ea)
-![proyecto UX_Final_page-0004](https://github.com/user-attachments/assets/ed14aeed-87a0-42a4-b1e1-e4b27b1a1a13)
-![proyecto UX_Final_page-0003](https://github.com/user-attachments/assets/2125d46b-0681-4ced-bf96-75955dfa3adf)
-![proyecto UX_Final_page-0002](https://github.com/user-attachments/assets/3c4632ce-2552-4ab0-bd44-a1d368821b86)
-![proyecto UX_Final_page-0001](https://github.com/user-attachments/assets/60770e06-4b9b-42a2-866b-b9ed0d2899c7)
-![proyecto UX_Final_page-0025](https://github.com/user-attachments/assets/0d6f5384-3c79-4521-810e-7072b18ae077)
-![proyecto UX_Final_page-0024](https://github.com/user-attachments/assets/f39affaa-28de-4f68-accb-b279acfe0d57)
-![proyecto UX_Final_page-0023](https://github.com/user-attachments/assets/246c5467-1188-4e1f-ab67-c21b3028d9cf)
-![proyecto UX_Final_page-0022](https://github.com/user-attachments/assets/50acf225-218d-4417-a1c8-2b3f87552605)
-![proyecto UX_Final_page-0021](https://github.com/user-attachments/assets/dc7fd8b1-c4c7-4cf2-b1ae-6483f8af028a)
-![proyecto UX_Final_page-0020](https://github.com/user-attachments/assets/1ba2186b-13e0-4bc3-86e8-063274ee09c4)
-![proyecto UX_Final_page-0019](https://github.com/user-attachments/assets/f4f297c9-a2af-473c-ad40-5b8029b252c2)
+<!-- 1 -->
+<img src="https://github.com/user-attachments/assets/75de59f1-7f1c-4e85-bc7b-4a494ee34cb4" width="30%">  
+<!-- 2 -->
+<img src="https://github.com/user-attachments/assets/23a7088a-95c9-4c4e-8609-8e38581962ff" width="30%">  
+<!-- 3 -->
+<img src="https://github.com/user-attachments/assets/f471f5c8-06d7-4f60-bf51-4a51ae9595fe" width="30%">  
+<!-- 4 -->
+<img src="https://github.com/user-attachments/assets/572eb64e-1f78-4cc4-8a21-b98fb0fa2adc" width="30%">  
+<!-- 5 -->
+<img src="https://github.com/user-attachments/assets/50224ab3-c5ee-424d-b928-a12f37317cb6" width="30%">  
+<!-- 6 -->
+<img src="https://github.com/user-attachments/assets/edfab432-1194-4350-8c4f-50243f5fe9be" width="30%">  
+<!-- 7 -->
+<img src="https://github.com/user-attachments/assets/aba5ac6c-4009-4d63-935c-d864f9d0cbc6" width="30%">  
+<!-- 8 -->
+<img src="https://github.com/user-attachments/assets/09b18b47-5739-4199-b50d-2954455f5991" width="30%">  
+<!-- 9 -->
+<img src="https://github.com/user-attachments/assets/2685332c-701e-4180-bcd9-01456a6effb1" width="30%">  
+<!-- 10 -->
+<img src="https://github.com/user-attachments/assets/4d1e0f11-6238-4eff-8e23-5c779c34316e" width="30%">  
+<!-- 11 -->
+<img src="https://github.com/user-attachments/assets/8215283e-73fb-4175-bc8b-0b5b52a3176b" width="30%">  
+<!-- 12 -->
+<img src="https://github.com/user-attachments/assets/79b42409-d8a6-4fca-81f0-699ce6b5fb15" width="30%">  
+<!-- 13 -->
+<img src="https://github.com/user-attachments/assets/aa22eef9-d7e1-4cf7-a9ee-05023c231c6a" width="30%">  
+<!-- 14 -->
+<img src="https://github.com/user-attachments/assets/95aeb921-b2d2-4b76-9b45-607181680a76" width="30%">  
+<!-- 15 -->
+<img src="https://github.com/user-attachments/assets/d05690ae-3d0d-40d5-a591-d993b43f385d" width="30%">  
+<!-- 16 -->
+<img src="https://github.com/user-attachments/assets/20a15883-47f7-4e44-85fa-a2e1da1be281" width="30%">  
+<!-- 17 -->
+<img src="https://github.com/user-attachments/assets/424b6739-db77-48ab-b6d3-7ea93a076c42" width="30%">  
+<!-- 18 -->
+<img src="https://github.com/user-attachments/assets/154da20a-484f-4d76-b832-82d3ecd266d5" width="30%">  
+<!-- 19 -->
+<img src="https://github.com/user-attachments/assets/d191b755-570f-4e71-a1c2-808a9d3227ac" width="30%">  
+<!-- 20 -->
+<img src="https://github.com/user-attachments/assets/08e56c3b-7fc0-4527-ab0d-a8f405216dcb" width="30%">  
+<!-- 21 -->
+<img src="https://github.com/user-attachments/assets/eb03b059-9e49-42ae-9fdc-962a9a55a29d" width="30%">  
+<!-- 22 -->
+<img src="https://github.com/user-attachments/assets/a8447a7d-9ce6-407a-a08f-cba979e10e15" width="30%">  
+<!-- 23 -->
+<img src="https://github.com/user-attachments/assets/718e2b56-0291-4f69-8294-c07a2f894c6b" width="30%">  
+<!-- 24 -->
+<img src="https://github.com/user-attachments/assets/f51572f3-e5cf-4ae7-bbca-6efce754f6b0" width="30%">  
+<!-- 25 -->
+<img src="https://github.com/user-attachments/assets/476f0aa2-531a-4d77-99b1-a7aee0acd475" width="30%">  
+<!-- 26 -->
+<img src="https://github.com/user-attachments/assets/ea4b6b7d-6a48-402f-91e0-93a68a563dff" width="30%">
 
